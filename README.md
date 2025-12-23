@@ -1,7 +1,6 @@
 # 🌐 Social App API (Express.js + MongoDB)
 
-A RESTful API for a basic social media platform built with **Express.js**, **MongoDB**, and **JWT** authentication.  
-Supports user accounts, following/unfollowing, creating posts, liking/unliking, and comments.
+Built a real-time for a social platform with Node.js, Express.js, and MongoDB. Supports user authentication, posts, comments, likes, and send and receive friend request  functionality , with clear request/response patterns and scalable service logic.
 
 ---
 
@@ -38,11 +37,17 @@ You can access it directly or test it using tools like Postman.
 - ➕ **Create Post**
 - ❤️ **Like / Unlike Post**
 - 💬 **Add / Delete Comment**
-- 🔁 **Follow / Unfollow Users**
+- 🔁 **Send / receive friend request**
 - 🔐 Protected Routes using JWT
 - 📄 Clean RESTful structure
 
 ---
+## Setup & Installation
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/MohammedEsmaill/social-App.git
+cd social-App
 
 ## 🔗 Sample Endpoints
 
